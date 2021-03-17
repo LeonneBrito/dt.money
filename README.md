@@ -1,46 +1,90 @@
-# Getting Started with Create React App
+<p align="center">
+   <img src="./.github/logo.svg" alt="Move It" width="300"/>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">	
+   <a href="https://www.linkedin.com/in/leonne-sousa-brito/">
+      <img alt="LeonneBrito" src="https://img.shields.io/badge/-LeonneBrito-5965e0?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
+  <a aria-label="Completed" href="https://nextlevelweek.com/episodios/react/1/edicao/4">
+    <img src="https://img.shields.io/badge/Move.It-NLW 4-5965e0?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
+  </a>
+  <img alt="License" src="https://img.shields.io/github/license/LeonneBrito/move-it?color=%235965E0" />
+  <img alt="Issues" src="https://img.shields.io/github/issues/LeonneBrito/move-it?color=%235965E0">
+</p>
 
-## Available Scripts
+<p align="center">
+  🤸‍♂️ Move It is a project to help people to make more exercises. Next Level Week #04 - <a href="https://github.com/Rocketseat">@Rocketseat</a>
+</p>
 
-In the project directory, you can run:
+<div align="center">
+  <sub> Made with 💖 by
+    <a href="https://github.com/LeonneBrito">Leonne Brito</a> and
+    <a href="https://github.com/Rocketseat">
+      Rocketseat for NLW #4.
+    </a>
+  </sub>
+</div>
 
-### `yarn start`
+# 📌 Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* [Screenshots](#camera-screenshot) 
+* [Technologies](#rocket-technologies) 
+* [Features](#stars-features) 
+* [How to Run](#computer-how-to-run)
+* [Issues](#bug-issues)
+* [Contributing](#sparkles-issues)
+* [License](#page_facing_up-license)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# :camera: Screenshots
+<div align="center">
+   <img src="./.github/screen1.png" width="400px">
+   <img src="./.github/screen2.png" width="400px">
+</div>
 
-### `yarn test`
+# :rocket: Technologies
+This project was made using the follow technologies:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* [Typescript](https://www.typescriptlang.org/)      
+* [React](https://reactjs.org/)      
+* [Next.js](https://nextjs.org/)  
+* [SASS](https://sass-lang.com/)
+* [JS-Cookie](https://github.com/js-cookie/js-cookie)
 
-### `yarn build`
+# :stars: Features
+* Pomodoro timer.
+* Make some exercises.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# :computer: How to run
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+# Clone Repository
+$ git clone https://github.com/LeonneBrito/moveit-nlw4.git
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+# Install Dependencies
+$ yarn
 
-### `yarn eject`
+# Run Aplication
+$ yarn dev
+```
+Go to http://localhost:3000/ to see the result.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# :bug: Issues
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Create a <a href="https://github.com/LeonneBrito/moveit-nlw4/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# :sparkles: Contributing
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- Fork this repository;
+- Create a branch with your feature: `git checkout -b my-feature`;
+- Commit your changes: `git commit -m 'feat: My new feature'`;
+- Push to your branch: `git push origin my-feature`.
 
-## Learn More
+# :page_facing_up: License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This project is under the [MIT license](./LICENSE).
+Made with 💖 by [Leonne Brito](https://www.linkedin.com/in/leonne-sousa-brito/). 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Thank you! 🌠
