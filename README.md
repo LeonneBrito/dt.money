@@ -7,7 +7,6 @@
       <img alt="LeonneBrito" src="https://img.shields.io/badge/-LeonneBrito-5965e0?style=flat&logo=Linkedin&logoColor=white" />
    </a>
   <img alt="Languages" src="https://img.shields.io/github/languages/count/LeonneBrito/dt.money?color=%235963C5" />
-  <img alt="repo-size" src="https://img.shields.io/github/repo-size/LeonneBrito/dt.money?color=%235761C3" />
   <img alt="lastcommit" src="https://img.shields.io/github/last-commit/LeonneBrito/dt.money?color=%235761C3" />
   <img alt="License" src="https://img.shields.io/github/license/LeonneBrito/dt.money?color=%235E69D7" />
   <img alt="Issues" src="https://img.shields.io/github/issues/LeonneBrito/dt.money?color=%235965E0">
@@ -17,15 +16,12 @@
 </p>
 
 <p align="center">
-  🤸‍♂️ Move It is a project to help people to make more exercises. Next Level Week #04 - <a href="https://github.com/Rocketseat">@Rocketseat</a>
+  :moneybag: Administre seu dinheiro. Projeto desenvolvido durante o segundo módulo do Bootcamp Ignite | <a href="https://github.com/Rocketseat">@Rocketseat</a>
 </p>
 
 <div align="center">
   <sub> Made with 💖 by
-    <a href="https://github.com/LeonneBrito">Leonne Brito</a> and
-    <a href="https://github.com/Rocketseat">
-      Rocketseat for NLW #4.
-    </a>
+    <a href="https://github.com/LeonneBrito">Leonne Brito.
   </sub>
 </div>
 
@@ -33,7 +29,6 @@
 
 * [Screenshots](#camera-screenshot) 
 * [Technologies](#rocket-technologies) 
-* [Features](#stars-features) 
 * [How to Run](#computer-how-to-run)
 * [Issues](#bug-issues)
 * [Contributing](#sparkles-issues)
@@ -52,19 +47,14 @@ This project was made using the follow technologies:
 
 * [Typescript](https://www.typescriptlang.org/)      
 * [React](https://reactjs.org/)      
-* [Next.js](https://nextjs.org/)  
-* [SASS](https://sass-lang.com/)
-* [JS-Cookie](https://github.com/js-cookie/js-cookie)
-
-# :stars: Features
-* Pomodoro timer.
-* Make some exercises.
+* [Styled Components](https://styled-components.com/)
+* [MirageJS](https://miragejs.com/)
 
 # :computer: How to run
 
 ```bash
 # Clone Repository
-$ git clone https://github.com/LeonneBrito/moveit-nlw4.git
+$ git clone https://github.com/LeonneBrito/dt.money.git
 ```
 
 ```bash
@@ -72,13 +62,13 @@ $ git clone https://github.com/LeonneBrito/moveit-nlw4.git
 $ yarn
 
 # Run Aplication
-$ yarn dev
+$ yarn start
 ```
 Go to http://localhost:3000/ to see the result.
 
 # :bug: Issues
 
-Create a <a href="https://github.com/LeonneBrito/moveit-nlw4/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
+Create a <a href="https://github.com/LeonneBrito/dt.money/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
 
 # :sparkles: Contributing
 
