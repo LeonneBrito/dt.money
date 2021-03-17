@@ -40,6 +40,8 @@
 <div align="center">
    <img src="./.github/screen1.png" width="400px">
    <img src="./.github/screen2.png" width="400px">
+   <img src="./.github/screen3png" width="400px">
+   <img src="./.github/screen4png" width="400px">
 </div>
 
 # :rocket: Technologies
