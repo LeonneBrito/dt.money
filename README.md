@@ -6,11 +6,14 @@
    <a href="https://www.linkedin.com/in/leonne-sousa-brito/">
       <img alt="LeonneBrito" src="https://img.shields.io/badge/-LeonneBrito-5965e0?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <a aria-label="Completed" href="https://nextlevelweek.com/episodios/react/1/edicao/4">
-    <img src="https://img.shields.io/badge/Move.It-NLW 4-5965e0?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/LeonneBrito/dt.money?color=%235963C5" />
+  <img alt="repo-size" src="https://img.shields.io/github/repo-size/LeonneBrito/dt.money?color=%235761C3" />
+  <img alt="lastcommit" src="https://img.shields.io/github/last-commit/LeonneBrito/dt.money?color=%235761C3" />
+  <img alt="License" src="https://img.shields.io/github/license/LeonneBrito/dt.money?color=%235E69D7" />
+  <img alt="Issues" src="https://img.shields.io/github/issues/LeonneBrito/dt.money?color=%235965E0">
+  <a href="mailto:contato@leonnebrito.com.br">
+   <img alt="Email" src="https://img.shields.io/badge/-contato%40leonnebrito.com.br-%23525DCB" />
   </a>
-  <img alt="License" src="https://img.shields.io/github/license/LeonneBrito/move-it?color=%235965E0" />
-  <img alt="Issues" src="https://img.shields.io/github/issues/LeonneBrito/move-it?color=%235965E0">
 </p>
 
 <p align="center">
